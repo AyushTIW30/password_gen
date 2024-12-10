@@ -12,7 +12,7 @@ This is a simple password generator built in Python. It allows users to specify 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/AyushTIW30/password_gen/blob/main/Password_gen.py
    ```
 
 2. Navigate into the project directory:
